@@ -56,7 +56,7 @@ export function Hero() {
             size="lg"
             className="min-w-[160px] transition-opacity hover:opacity-90"
           >
-            <Link href="#projects">
+            <Link href="/#projects">
               <FolderGit2 className="size-4" aria-hidden />
               View Projects
             </Link>
