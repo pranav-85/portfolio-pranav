@@ -35,7 +35,7 @@ export function Hero() {
             </h1>
             <div className="relative h-20 w-20 md:h-28 md:w-28">
               <Image
-                src="/giyuu-gif.gif"
+                src="/portfolio-pranav/giyuu-gif.gif"
                 alt="Playful avatar illustration"
                 fill
                 priority
@@ -56,7 +56,7 @@ export function Hero() {
             size="lg"
             className="min-w-[160px] transition-opacity hover:opacity-90"
           >
-            <Link href="/#projects">
+            <Link href="#projects">
               <FolderGit2 className="size-4" aria-hidden />
               View Projects
             </Link>
